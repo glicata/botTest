@@ -1,0 +1,30 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "\"Build a bot in Node.js on microsoft bot framework\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glicata/botTest.git"
+  },
+  "keywords": [
+    "bot",
+    "slakc",
+    "testbot"
+  ],
+  "author": "Giuseppe Licata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glicata/botTest/issues"
+  },
+  "homepage": "https://github.com/glicata/botTest#readme",
+  "dependencies": {
+    "api": "^0.5.7",
+    "botbuilder": "^3.7.0",
+    "restful": "^0.4.5",
+    "restify": "^4.3.0"
+  }
+}
